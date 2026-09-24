@@ -1,34 +1,87 @@
-Hi, I'm Sahil Shembare 👋
+👋 Hey, I'm Sahil Shembare
+
+💻 Computer Technology Student | Web & App Developer | Data Analytics Enthusiast
+
+«🚀 Turning ideas into practical digital solutions.»
+
+---
+
+🧑‍💻 About Me
 
 🎓 Computer Technology Student
-💻 Web & App Developer
-📊 Data Analytics & Visualization Enthusiast
-🚀 Interested in building practical and innovative projects
+🌐 Passionate about Web & App Development
+📊 Interested in Data Analytics & Visualization
+🔥 Building real-world projects and continuously improving my technical skills.
 
-🛠️ Skills & Technologies
+---
 
-- HTML, CSS, JavaScript
-- React.js & Vite
-- Firebase
-- MySQL, MS SQL, PostgreSQL
-- Power BI
-- Git & GitHub
+⚡ Tech Stack
 
-📌 Featured Project
+Area| Technologies
+🌐 Frontend| HTML • CSS • JavaScript • React.js • Vite
+🔥 Cloud & Backend| Firebase • Firestore
+🗄️ Database| MySQL • MS SQL • PostgreSQL
+📊 Analytics| Power BI • Data Visualization
+🛠️ Tools| Git • GitHub • Antigravity
 
-🍽️ SmartDine
+---
 
-An intelligent QR-code-based food ordering platform that allows customers to scan a table QR code, browse the menu, place orders, and track order status.
+🚀 Featured Project
 
-Technologies: React, Vite, Firebase, Firestore, PWA
+🍽️ SmartDine — Intelligent QR Food Ordering Platform
 
-🎯 Career Interests
+A modern QR-code-based food ordering platform designed to make restaurant ordering faster and more convenient.
 
-- Web Development
-- App Development
-- Data Analytics
-- Database Management
+✨ Features
 
-📫 Connect With Me
+- 📱 QR-based table ordering
+- 🍔 Digital food menu
+- 🛒 Cart & online ordering
+- 👨‍🍳 Kitchen order management
+- 📊 Admin dashboard
+- 🔥 Firebase & Firestore
+- 📲 Progressive Web App (PWA)
 
-Linkedin: https://www.linkedin.com/in/sahil-shembare-156045258?utm_source=share_via&utm_content=profile&utm_medium=member_android
+Tech: "React" "Vite" "Firebase" "Firestore" "PWA"
+
+🔗 Live Project: https://smart-dine1.vercel.app/
+
+---
+
+📊 What I'm Exploring
+
+Web Development      ████████████████░░ 80%
+App Development      █████████████░░░░░ 70%
+Data Analytics       █████████████░░░░░ 70%
+Database Management  ██████████████░░░░ 75%
+
+---
+
+🎯 Current Goals
+
+🔹 Build real-world projects
+🔹 Strengthen web & app development skills
+🔹 Improve Data Analytics & Visualization
+🔹 Learn modern cloud technologies
+🔹 Prepare for a career in the technology industry
+
+---
+
+📌 Featured Projects
+
+🍽️ SmartDine — QR Food Ordering Platform
+📊 Data Analytics Projects — Dashboards & Visualization
+🌐 Web Projects — Frontend & Web Applications
+🗄️ Database Projects — SQL & Database Management
+
+---
+
+🤝 Let's Connect
+
+🔗 LinkedIn: "Sahil Shembare" (https://www.linkedin.com/in/sahil-shembare-156045258/)
+
+---
+
+⭐ Build • Learn • Create • Repeat
+
+Always learning. Always building. 🚀
