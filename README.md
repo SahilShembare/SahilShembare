@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Sahil Shembare 👋
 
-<!--
-**SahilShembare/SahilShembare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Technology Student
+💻 Web & App Developer
+📊 Data Analytics & Visualization Enthusiast
+🚀 Interested in building practical and innovative projects
 
-Here are some ideas to get you started:
+🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS, JavaScript
+- React.js & Vite
+- Firebase
+- MySQL, MS SQL, PostgreSQL
+- Power BI
+- Git & GitHub
+
+📌 Featured Project
+
+🍽️ SmartDine
+
+An intelligent QR-code-based food ordering platform that allows customers to scan a table QR code, browse the menu, place orders, and track order status.
+
+Technologies: React, Vite, Firebase, Firestore, PWA
+
+🎯 Career Interests
+
+- Web Development
+- App Development
+- Data Analytics
+- Database Management
+
+📫 Connect With Me
+
+GitHub: @SahilShembare
