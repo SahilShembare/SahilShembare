@@ -31,4 +31,4 @@ Technologies: React, Vite, Firebase, Firestore, PWA
 
 📫 Connect With Me
 
-GitHub: @SahilShembare
+Linkedin: https://www.linkedin.com/in/sahil-shembare-156045258?utm_source=share_via&utm_content=profile&utm_medium=member_android
